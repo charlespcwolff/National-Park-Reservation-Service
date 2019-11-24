@@ -1,0 +1,15 @@
+C:\Users\Student\workspace\Teams\team3-c-week6-pair-exercises\09_Capstone\dotnet\Capstone\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Student\workspace\Teams\team3-c-week6-pair-exercises\09_Capstone\dotnet\Capstone\bin\Debug\netcoreapp2.2\Capstone.deps.json
+C:\Users\Student\workspace\Teams\team3-c-week6-pair-exercises\09_Capstone\dotnet\Capstone\bin\Debug\netcoreapp2.2\Capstone.runtimeconfig.json
+C:\Users\Student\workspace\Teams\team3-c-week6-pair-exercises\09_Capstone\dotnet\Capstone\bin\Debug\netcoreapp2.2\Capstone.runtimeconfig.dev.json
+C:\Users\Student\workspace\Teams\team3-c-week6-pair-exercises\09_Capstone\dotnet\Capstone\bin\Debug\netcoreapp2.2\Capstone.dll
+C:\Users\Student\workspace\Teams\team3-c-week6-pair-exercises\09_Capstone\dotnet\Capstone\bin\Debug\netcoreapp2.2\Capstone.pdb
+C:\Users\Student\workspace\Teams\team3-c-week6-pair-exercises\09_Capstone\dotnet\Capstone\bin\Debug\netcoreapp2.2\Security.dll
+C:\Users\Student\workspace\Teams\team3-c-week6-pair-exercises\09_Capstone\dotnet\Capstone\bin\Debug\netcoreapp2.2\Security.pdb
+C:\Users\Student\workspace\Teams\team3-c-week6-pair-exercises\09_Capstone\dotnet\Capstone\obj\Debug\netcoreapp2.2\Capstone.csprojAssemblyReference.cache
+C:\Users\Student\workspace\Teams\team3-c-week6-pair-exercises\09_Capstone\dotnet\Capstone\obj\Debug\netcoreapp2.2\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\Teams\team3-c-week6-pair-exercises\09_Capstone\dotnet\Capstone\obj\Debug\netcoreapp2.2\Capstone.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\Teams\team3-c-week6-pair-exercises\09_Capstone\dotnet\Capstone\obj\Debug\netcoreapp2.2\Capstone.AssemblyInfo.cs
+C:\Users\Student\workspace\Teams\team3-c-week6-pair-exercises\09_Capstone\dotnet\Capstone\obj\Debug\netcoreapp2.2\Capstone.csproj.CopyComplete
+C:\Users\Student\workspace\Teams\team3-c-week6-pair-exercises\09_Capstone\dotnet\Capstone\obj\Debug\netcoreapp2.2\Capstone.dll
+C:\Users\Student\workspace\Teams\team3-c-week6-pair-exercises\09_Capstone\dotnet\Capstone\obj\Debug\netcoreapp2.2\Capstone.pdb

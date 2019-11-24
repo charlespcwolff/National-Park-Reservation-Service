@@ -1,0 +1,9 @@
+C:\Users\Student\workspace\Teams\team3-c-week6-pair-exercises\09_Capstone\dotnet\Security\bin\Debug\netcoreapp2.2\Security.deps.json
+C:\Users\Student\workspace\Teams\team3-c-week6-pair-exercises\09_Capstone\dotnet\Security\bin\Debug\netcoreapp2.2\Security.dll
+C:\Users\Student\workspace\Teams\team3-c-week6-pair-exercises\09_Capstone\dotnet\Security\bin\Debug\netcoreapp2.2\Security.pdb
+C:\Users\Student\workspace\Teams\team3-c-week6-pair-exercises\09_Capstone\dotnet\Security\obj\Debug\netcoreapp2.2\Security.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\Teams\team3-c-week6-pair-exercises\09_Capstone\dotnet\Security\obj\Debug\netcoreapp2.2\Security.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\Teams\team3-c-week6-pair-exercises\09_Capstone\dotnet\Security\obj\Debug\netcoreapp2.2\Security.AssemblyInfo.cs
+C:\Users\Student\workspace\Teams\team3-c-week6-pair-exercises\09_Capstone\dotnet\Security\obj\Debug\netcoreapp2.2\Security.dll
+C:\Users\Student\workspace\Teams\team3-c-week6-pair-exercises\09_Capstone\dotnet\Security\obj\Debug\netcoreapp2.2\Security.pdb
+C:\Users\Student\workspace\Teams\team3-c-week6-pair-exercises\09_Capstone\dotnet\Security\obj\Debug\netcoreapp2.2\Security.csprojAssemblyReference.cache
